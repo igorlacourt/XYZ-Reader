@@ -6,4 +6,6 @@ This project was built from Udacity's starter code.
 
 ![](collapsing-toolbar.gif)
 
+![Collapsing Toolbar](collapsing-toolbar.gif)
+
 <img src="https://j.gifs.com/mOELBn.gif" title="Steggered Layout"/>
