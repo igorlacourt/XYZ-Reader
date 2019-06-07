@@ -3,11 +3,3 @@
 Udacity's project, part of Udacity's Android Developer Nanodegree, meant to put in practice design patterns concepts. Approved by an Udacity's mentor.
 
 This project was built from Udacity's starter code. 
-
-![](collapsing-toolbar.gif)
-
-![Steggered Layout](steg-small.gif)
-
-<img src="https://j.gifs.com/mOELBn.gif" title="Steggered Layout"/>
-
-![steg-small](https://user-images.githubusercontent.com/28983408/59128719-40875000-8941-11e9-8c00-f3270452dfdf.gif)
