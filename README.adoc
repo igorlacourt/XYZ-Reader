@@ -4,8 +4,8 @@ Udacity's project, part of Udacity's Android Developer Nanodegree, meant to put 
 
 This project was built from Udacity's starter code.
 
-![My gif](XYZ-Reader/gifs/steg-small.gif)
+![Imgur](http://i.imgur.com/zTONrOD.jpg)
 
-!(image)[https://media.giphy.com/media/l46C8VoCqphm8QPOU/giphy.gif]
+# Major Inspiration Sources
+* Hermann Vocke's [blog posts](http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 
-![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
